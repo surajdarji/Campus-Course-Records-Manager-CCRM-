@@ -1,0 +1,11 @@
+id,regNo,fullName,email,status
+S001,2021CSE001,Aditya Sharma,aditya.sharma@example.com,TRUE
+S002,2021CSE002,Neha Verma,neha.verma@example.com,TRUE
+S003,2021CSE003,Rohan Singh,rohan.singh@example.com,FALSE
+S004,2021CSE004,Priya Patel,priya.patel@example.com,TRUE
+S005,2021CSE005,Arjun Mehta,arjun.mehta@example.com,FALSE
+S006,2021CSE006,Kavya Nair,kavya.nair@example.com,TRUE
+S007,2021CSE007,Manish Yadav,manish.yadav@example.com,TRUE
+S008,2021CSE008,Sneha Iyer,sneha.iyer@example.com,FALSE
+S009,2021CSE009,Rajat Malhotra,rajat.malhotra@example.com,TRUE
+S010,2021CSE010,Ananya Gupta,ananya.gupta@example.com,TRUE
