@@ -4,7 +4,7 @@ REM Auto-generate sources.txt, compile, and run
 REM ===============================================
 
 REM Go to Desktop
-cd /d C:\Users\Aditya\Desktop
+cd /d C:\Users\suraj\Desktop
 
 REM Enable delayed variable expansion
 setlocal enabledelayedexpansion
